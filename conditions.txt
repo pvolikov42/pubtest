@@ -1,0 +1,4 @@
+Conditions
+- All programs in C
+- All functions are less than 30 lines
+- Function names should end with x
